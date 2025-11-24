@@ -1,4 +1,4 @@
-# TRAINEESHIP MANAGEMENT APPLICATION
+# SPRINGBOOT TRAINEESHIP MANAGEMENT APPLICATION
 
 This project implements a **web-based traineeship management application** using **Java Spring Boot**, supporting **user accounts, traineeship creation, applications, evaluations, and automated allocation strategies**. It was developed as part of the **MYY803 – Software Engineering** course at the **University of Ioannina**.
 
